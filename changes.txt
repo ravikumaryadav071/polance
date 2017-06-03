@@ -1,0 +1,58 @@
+collection.js - 315 line
+add_to_collection.php - php_r_t_a - after for loop
+
+28-09-2015
+
+index.php - new else statements for collaborations
+autoload_overview.php - php_response_to_ajax - new else statements for collaborations
+collaboration_request_action.php - php_response_to_ajax
+leave_collaboration.php - php_response_to_ajax
+create_collaboration.php
+submit_collaboration_posts.php
+send_to_main_page.js - javascripts
+collaboration.php
+col_posts_div.php - include
+
+29-09-2015
+
+collaborations.php
+show_notifications.php - php_response_to_ajax
+create_collaboration.php
+notifications.js - javascripts
+post_responses.js - javascripts
+col_posts_responses.js - javascripts
+all_post_div.php
+col_post_div.php
+popup_user_post_div.php
+
+30-09-2015
+
+index.php - search form
+
+01-10-2015
+
+register.php - notifications_settings
+show_notifications.php - php_response_to_ajax
+notifications.php - php_response_to_ajax
+index.php
+autoload_overview.php - php_response_to_ajax
+update_feeds.php - php_response_to_ajax
+submit_users_posts.php
+all_posts_div.php - include
+popup_user_post_div.php - include
+
+02-10-2015
+
+notifications.js
+online_friends.php - php_response_to_ajax
+online_friends.php
+
+06-10-2015
+
+all_posts_div.php
+col_posts_div.php
+popup_user_post_div.php
+
+18-10-2015
+
+edit_my_interests.php - php_response_to_ajax

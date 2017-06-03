@@ -1,0 +1,73 @@
+body {
+	
+    color: #666;
+    font: 14px/24px sans-serif;
+}
+
+#user_action {
+
+	background: #CCFFCC;
+	width: 100%;
+	font-family: Arial;
+	border: 1px solid #999999;
+
+}
+
+#uploading_area {
+
+	background: #CCFFCC;
+	width: 100%;
+	font-family: Arial;
+	border: 1px solid #999999;
+	padding: 10%;
+
+}
+
+#news_feed {
+
+	background: #CCFFCC;
+	width: 100%;
+	font-family: Arial;
+	font-size: 14px;
+	padding: 10%;
+	border: 1px solid #999999; 
+
+}
+
+#suggestions {
+
+	background: #CCFFCC;
+	width: 100%;
+	font-family: Arial;
+	font-size: 12px;
+	padding: 10%;
+	border: 1px solid #999999; 
+
+}
+
+#ads {
+
+	background: #CCFFCC;
+	width: 100%;
+	font-family: Arial;
+	font-size: 12px;
+	padding: 10%;
+	border: 1px solid #999999; 
+
+}
+
+.checkborder{
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+}
+
+.chatform{
+	position: fixed;
+	bottom: 0px;
+}
+
+.chatFixedHeight{
+	max-height: 400px;
+	overflow-x: hidden;
+}
